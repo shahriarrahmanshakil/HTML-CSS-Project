@@ -1,0 +1,26 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+body{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    background-color: bisque;
+}
+.Card{
+    background-color: azure; 
+    padding: 20px;  
+    border-radius: 30px;
+    padding: 50px;
+}
+img{
+    border-radius: 30px;
+    width: 100%;
+}
+.ptime{
+    padding: 20px;
+    background-color: rgb(255, 208, 208);
+    border-radius: 15px;
+}
