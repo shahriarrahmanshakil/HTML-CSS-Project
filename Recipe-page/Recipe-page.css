@@ -11,8 +11,9 @@ body{
 }
 .Card{
     background-color: azure; 
-    padding: 70px;  
-    border-radius: 30px;
+    padding: 20px;  
+    border-radius: 20px;
+    margin:50px 0px ;
 }
 img{
     border-radius: 30px;
