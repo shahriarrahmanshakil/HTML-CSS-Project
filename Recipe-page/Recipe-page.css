@@ -32,3 +32,9 @@ td{
     border-bottom: 1px solid #ddd;
     padding: 10px;
 }
+
+@media only screen and (max-width:620px) {
+    body, .Card, .ptime{
+        width: 100%;
+    }
+}
